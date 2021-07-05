@@ -1,0 +1,13 @@
+body
+{
+font-family: monospace;
+}
+
+h1{
+    font-size:30px !important;
+}
+
+canvas
+{
+    border:5px solid magenta;
+}
